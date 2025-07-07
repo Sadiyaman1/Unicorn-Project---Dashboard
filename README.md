@@ -15,6 +15,7 @@ Identify missing product-market combinations in international sales data to unco
 ## 🔗 Dashboard Link  
 👉 [View the interactive Tableau dashboard](https://public.tableau.com/app/profile/sefer.adiyaman)  
 
-
+## 🖼 Preview  
+![Dashboard Screenshot](dashboard-preview.png)
 
 
